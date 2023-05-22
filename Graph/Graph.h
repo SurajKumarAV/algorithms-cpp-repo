@@ -74,7 +74,7 @@ class Graph
 	}
 };
 
-/*
+
 class Digraph
 {
 	int _V;
@@ -119,7 +119,7 @@ class SymbolGraph
 	string *keys;
 	Graph *_G;
 };
-*/
+
 class DepthFirstPath
 {
 	int source;
@@ -253,7 +253,7 @@ class BreadthFirstPath
 		}
 	}
 };
-/*
+
 class ConnectedComponent
 {
 	bool *marked;
@@ -362,7 +362,7 @@ class TwoColor
 	}
 };
 
-*/
+
 
 
 
